@@ -1,3 +1,8 @@
+EXTRAS
+---------------------------------------------------
+  [Ion_Auth 2](https://github.com/benedmunds/CodeIgniter-Ion-Auth)
+  [HMVC](https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc/wiki/Home)
+
 ### A CodeIgniter skeleton application based on twitter bootstrap and html5boilerplate.
 ---------------------------------------------------
 
