@@ -46,5 +46,7 @@ Author
 
 EXTRAS
 ---------------------------------------------------
+Libraries adde after:
+
  * [Ion_Auth 2](https://github.com/benedmunds/CodeIgniter-Ion-Auth)
  * [HMVC](https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc/wiki/Home)
